@@ -3,8 +3,7 @@ import VueRouter from 'vue-router';
 import App from './App.vue';
 
 const routes = [
-  { path: '/id/:id', name: 'id', component: App },
-  { path: '/name/:name', name: 'name', component: App },
+  { path: '/id/:id', name: 'id', component: App }
 ];
 
 const router = new VueRouter({

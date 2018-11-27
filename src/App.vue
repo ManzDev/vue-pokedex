@@ -3,7 +3,6 @@
 </template>
 
 <script>
-//import background from '~/assets/background.jpg';
 import PokeDex from '~/components/PokeDex.vue';
 
 export default {

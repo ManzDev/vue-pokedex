@@ -25,20 +25,20 @@ module.exports="/vue-pokedex/007.6c395880.png";
 module.exports="/vue-pokedex/008.3cdc855c.png";
 },{}],"1a8W":[function(require,module,exports) {
 module.exports="/vue-pokedex/009.b78879c7.png";
-},{}],"IZZ8":[function(require,module,exports) {
-module.exports="/vue-pokedex/011.860bff4c.png";
 },{}],"Q1OA":[function(require,module,exports) {
 module.exports="/vue-pokedex/010.6c0ca10c.png";
+},{}],"IZZ8":[function(require,module,exports) {
+module.exports="/vue-pokedex/011.860bff4c.png";
 },{}],"PrI9":[function(require,module,exports) {
 module.exports="/vue-pokedex/012.b52b9e15.png";
 },{}],"WwI2":[function(require,module,exports) {
 module.exports="/vue-pokedex/013.29ff4bd0.png";
 },{}],"Ad1A":[function(require,module,exports) {
 module.exports="/vue-pokedex/014.3afe7a81.png";
-},{}],"C49Y":[function(require,module,exports) {
-module.exports="/vue-pokedex/015.828509ad.png";
 },{}],"2nit":[function(require,module,exports) {
 module.exports="/vue-pokedex/016.a83ab036.png";
+},{}],"C49Y":[function(require,module,exports) {
+module.exports="/vue-pokedex/015.828509ad.png";
 },{}],"L1PT":[function(require,module,exports) {
 module.exports="/vue-pokedex/017.4069a5b1.png";
 },{}],"PDHt":[function(require,module,exports) {
@@ -101,60 +101,60 @@ module.exports="/vue-pokedex/045.ed08f683.png";
 module.exports="/vue-pokedex/046.d49b93f1.png";
 },{}],"BiKF":[function(require,module,exports) {
 module.exports="/vue-pokedex/047.89dac397.png";
-},{}],"pl9A":[function(require,module,exports) {
-module.exports="/vue-pokedex/050.d25fd7da.png";
 },{}],"j9ed":[function(require,module,exports) {
 module.exports="/vue-pokedex/048.d9919f56.png";
-},{}],"9Ol9":[function(require,module,exports) {
-module.exports="/vue-pokedex/052.facbb77a.png";
-},{}],"AilT":[function(require,module,exports) {
-module.exports="/vue-pokedex/051.e5aca66e.png";
-},{}],"Jrg8":[function(require,module,exports) {
-module.exports="/vue-pokedex/053.6d36c04a.png";
 },{}],"ab7M":[function(require,module,exports) {
 module.exports="/vue-pokedex/049.77c68b26.png";
+},{}],"pl9A":[function(require,module,exports) {
+module.exports="/vue-pokedex/050.d25fd7da.png";
+},{}],"AilT":[function(require,module,exports) {
+module.exports="/vue-pokedex/051.e5aca66e.png";
+},{}],"9Ol9":[function(require,module,exports) {
+module.exports="/vue-pokedex/052.facbb77a.png";
+},{}],"Jrg8":[function(require,module,exports) {
+module.exports="/vue-pokedex/053.6d36c04a.png";
 },{}],"dMPI":[function(require,module,exports) {
 module.exports="/vue-pokedex/054.7c948186.png";
+},{}],"Nftk":[function(require,module,exports) {
+module.exports="/vue-pokedex/055.251e3762.png";
 },{}],"tCvz":[function(require,module,exports) {
 module.exports="/vue-pokedex/056.5b4b18c2.png";
 },{}],"Iejd":[function(require,module,exports) {
 module.exports="/vue-pokedex/057.fe749764.png";
-},{}],"Nftk":[function(require,module,exports) {
-module.exports="/vue-pokedex/055.251e3762.png";
 },{}],"CMXh":[function(require,module,exports) {
 module.exports="/vue-pokedex/058.6e484350.png";
 },{}],"iEpJ":[function(require,module,exports) {
 module.exports="/vue-pokedex/059.607980ff.png";
-},{}],"ejH7":[function(require,module,exports) {
-module.exports="/vue-pokedex/062.9339490e.png";
 },{}],"ltn/":[function(require,module,exports) {
 module.exports="/vue-pokedex/060.d8dee9ce.png";
 },{}],"/Szz":[function(require,module,exports) {
 module.exports="/vue-pokedex/061.4d2e247d.png";
+},{}],"ejH7":[function(require,module,exports) {
+module.exports="/vue-pokedex/062.9339490e.png";
 },{}],"+6ru":[function(require,module,exports) {
 module.exports="/vue-pokedex/063.51efca12.png";
 },{}],"s95g":[function(require,module,exports) {
 module.exports="/vue-pokedex/064.c0ab63b7.png";
-},{}],"VYrn":[function(require,module,exports) {
-module.exports="/vue-pokedex/067.b70c4d43.png";
-},{}],"7Km/":[function(require,module,exports) {
-module.exports="/vue-pokedex/066.4cb9b05c.png";
 },{}],"XOtx":[function(require,module,exports) {
 module.exports="/vue-pokedex/065.a137e209.png";
+},{}],"7Km/":[function(require,module,exports) {
+module.exports="/vue-pokedex/066.4cb9b05c.png";
+},{}],"VYrn":[function(require,module,exports) {
+module.exports="/vue-pokedex/067.b70c4d43.png";
 },{}],"WSKD":[function(require,module,exports) {
 module.exports="/vue-pokedex/068.d61eeaaf.png";
 },{}],"8+6v":[function(require,module,exports) {
 module.exports="/vue-pokedex/069.ca079fa5.png";
 },{}],"p+3Y":[function(require,module,exports) {
 module.exports="/vue-pokedex/070.68428fa5.png";
+},{}],"iE08":[function(require,module,exports) {
+module.exports="/vue-pokedex/071.90b637fc.png";
 },{}],"lwPY":[function(require,module,exports) {
 module.exports="/vue-pokedex/072.abc545b5.png";
 },{}],"V2pw":[function(require,module,exports) {
 module.exports="/vue-pokedex/073.b85d3499.png";
 },{}],"XD1K":[function(require,module,exports) {
 module.exports="/vue-pokedex/074.012a3246.png";
-},{}],"iE08":[function(require,module,exports) {
-module.exports="/vue-pokedex/071.90b637fc.png";
 },{}],"MFYs":[function(require,module,exports) {
 module.exports="/vue-pokedex/075.a2c804f7.png";
 },{}],"FLJ6":[function(require,module,exports) {
@@ -163,54 +163,54 @@ module.exports="/vue-pokedex/076.74102f5d.png";
 module.exports="/vue-pokedex/077.64fa1a94.png";
 },{}],"FW+G":[function(require,module,exports) {
 module.exports="/vue-pokedex/078.b0815e7e.png";
-},{}],"qZbt":[function(require,module,exports) {
-module.exports="/vue-pokedex/081.0c335f2d.png";
 },{}],"JHi9":[function(require,module,exports) {
 module.exports="/vue-pokedex/079.9ce32f08.png";
 },{}],"HwTS":[function(require,module,exports) {
 module.exports="/vue-pokedex/080.545ba7b5.png";
+},{}],"qZbt":[function(require,module,exports) {
+module.exports="/vue-pokedex/081.0c335f2d.png";
 },{}],"UE0E":[function(require,module,exports) {
 module.exports="/vue-pokedex/082.6530c462.png";
 },{}],"2L0u":[function(require,module,exports) {
 module.exports="/vue-pokedex/083.854cfe4b.png";
-},{}],"T5Sh":[function(require,module,exports) {
-module.exports="/vue-pokedex/086.b8f7ed0c.png";
 },{}],"zo8A":[function(require,module,exports) {
 module.exports="/vue-pokedex/084.71ac6f3d.png";
 },{}],"iwEw":[function(require,module,exports) {
 module.exports="/vue-pokedex/085.ddb4e8e4.png";
+},{}],"T5Sh":[function(require,module,exports) {
+module.exports="/vue-pokedex/086.b8f7ed0c.png";
 },{}],"3mdM":[function(require,module,exports) {
 module.exports="/vue-pokedex/087.e3c14f17.png";
 },{}],"x4yj":[function(require,module,exports) {
 module.exports="/vue-pokedex/088.da9a5f3f.png";
-},{}],"y9aU":[function(require,module,exports) {
-module.exports="/vue-pokedex/091.d7c5898e.png";
-},{}],"OVY5":[function(require,module,exports) {
-module.exports="/vue-pokedex/090.ac64e124.png";
 },{}],"7b1i":[function(require,module,exports) {
 module.exports="/vue-pokedex/089.c3a633f6.png";
+},{}],"OVY5":[function(require,module,exports) {
+module.exports="/vue-pokedex/090.ac64e124.png";
+},{}],"y9aU":[function(require,module,exports) {
+module.exports="/vue-pokedex/091.d7c5898e.png";
 },{}],"jLYG":[function(require,module,exports) {
 module.exports="/vue-pokedex/092.de10a997.png";
 },{}],"aZQl":[function(require,module,exports) {
 module.exports="/vue-pokedex/093.d12f8cb2.png";
 },{}],"ewLy":[function(require,module,exports) {
 module.exports="/vue-pokedex/094.0fbfb126.png";
-},{}],"07QO":[function(require,module,exports) {
-module.exports="/vue-pokedex/096.0e547c41.png";
 },{}],"5Cgs":[function(require,module,exports) {
 module.exports="/vue-pokedex/095.41cf9d05.png";
+},{}],"07QO":[function(require,module,exports) {
+module.exports="/vue-pokedex/096.0e547c41.png";
 },{}],"HL1c":[function(require,module,exports) {
 module.exports="/vue-pokedex/097.1f6e627d.png";
 },{}],"Vd+x":[function(require,module,exports) {
 module.exports="/vue-pokedex/098.53f707d0.png";
 },{}],"Drce":[function(require,module,exports) {
 module.exports="/vue-pokedex/099.f80fcaef.png";
+},{}],"HkE6":[function(require,module,exports) {
+module.exports="/vue-pokedex/100.fb6010ea.png";
 },{}],"LVJx":[function(require,module,exports) {
 module.exports="/vue-pokedex/101.6a243a35.png";
 },{}],"/oV7":[function(require,module,exports) {
 module.exports="/vue-pokedex/102.ed32cb42.png";
-},{}],"HkE6":[function(require,module,exports) {
-module.exports="/vue-pokedex/100.fb6010ea.png";
 },{}],"ipde":[function(require,module,exports) {
 module.exports="/vue-pokedex/103.7ef5ee9f.png";
 },{}],"ydt9":[function(require,module,exports) {
@@ -221,32 +221,32 @@ module.exports="/vue-pokedex/105.b63676de.png";
 module.exports="/vue-pokedex/106.93c88291.png";
 },{}],"1I3C":[function(require,module,exports) {
 module.exports="/vue-pokedex/107.1e164d8e.png";
-},{}],"W0B6":[function(require,module,exports) {
-module.exports="/vue-pokedex/109.14cb0ea8.png";
 },{}],"kJhM":[function(require,module,exports) {
 module.exports="/vue-pokedex/108.a7c7f9c1.png";
-},{}],"/SDD":[function(require,module,exports) {
-module.exports="/vue-pokedex/111.6685271e.png";
+},{}],"W0B6":[function(require,module,exports) {
+module.exports="/vue-pokedex/109.14cb0ea8.png";
 },{}],"myGZ":[function(require,module,exports) {
 module.exports="/vue-pokedex/110.c9cef5a1.png";
+},{}],"/SDD":[function(require,module,exports) {
+module.exports="/vue-pokedex/111.6685271e.png";
 },{}],"L1Om":[function(require,module,exports) {
 module.exports="/vue-pokedex/112.1b87a1cf.png";
-},{}],"FBem":[function(require,module,exports) {
-module.exports="/vue-pokedex/114.9b9b760c.png";
 },{}],"vFBc":[function(require,module,exports) {
 module.exports="/vue-pokedex/113.57f0cea9.png";
+},{}],"FBem":[function(require,module,exports) {
+module.exports="/vue-pokedex/114.9b9b760c.png";
 },{}],"A2HX":[function(require,module,exports) {
 module.exports="/vue-pokedex/115.7d70b0e2.png";
 },{}],"cz7R":[function(require,module,exports) {
 module.exports="/vue-pokedex/116.84b4ef58.png";
 },{}],"rtUG":[function(require,module,exports) {
 module.exports="/vue-pokedex/117.390073ab.png";
-},{}],"Cqkv":[function(require,module,exports) {
-module.exports="/vue-pokedex/120.747856dd.png";
 },{}],"fJ2e":[function(require,module,exports) {
 module.exports="/vue-pokedex/118.a8033ed3.png";
 },{}],"v5CW":[function(require,module,exports) {
 module.exports="/vue-pokedex/119.c7eaff4c.png";
+},{}],"Cqkv":[function(require,module,exports) {
+module.exports="/vue-pokedex/120.747856dd.png";
 },{}],"cFCp":[function(require,module,exports) {
 module.exports="/vue-pokedex/121.17d05498.png";
 },{}],"o5mI":[function(require,module,exports) {
@@ -259,14 +259,14 @@ module.exports="/vue-pokedex/124.d076f268.png";
 module.exports="/vue-pokedex/125.68c86960.png";
 },{}],"d4LX":[function(require,module,exports) {
 module.exports="/vue-pokedex/126.8275c7a0.png";
+},{}],"LJ22":[function(require,module,exports) {
+module.exports="/vue-pokedex/127.5a8d4011.png";
+},{}],"hzyP":[function(require,module,exports) {
+module.exports="/vue-pokedex/128.30277519.png";
 },{}],"V3qY":[function(require,module,exports) {
 module.exports="/vue-pokedex/129.b036dc83.png";
 },{}],"4wxs":[function(require,module,exports) {
 module.exports="/vue-pokedex/130.3927f580.png";
-},{}],"hzyP":[function(require,module,exports) {
-module.exports="/vue-pokedex/128.30277519.png";
-},{}],"LJ22":[function(require,module,exports) {
-module.exports="/vue-pokedex/127.5a8d4011.png";
 },{}],"zRqx":[function(require,module,exports) {
 module.exports="/vue-pokedex/131.cb3b5fe1.png";
 },{}],"Yp/m":[function(require,module,exports) {
@@ -279,44 +279,44 @@ module.exports="/vue-pokedex/134.5c0e24fb.png";
 module.exports="/vue-pokedex/135.2cc062ba.png";
 },{}],"7Xis":[function(require,module,exports) {
 module.exports="/vue-pokedex/136.81b6d2ba.png";
-},{}],"gwrY":[function(require,module,exports) {
-module.exports="/vue-pokedex/139.51df8581.png";
 },{}],"lA2/":[function(require,module,exports) {
 module.exports="/vue-pokedex/137.d2b821db.png";
 },{}],"caIJ":[function(require,module,exports) {
 module.exports="/vue-pokedex/138.f78dab6d.png";
+},{}],"gwrY":[function(require,module,exports) {
+module.exports="/vue-pokedex/139.51df8581.png";
 },{}],"1w/D":[function(require,module,exports) {
 module.exports="/vue-pokedex/140.bd35a1cb.png";
 },{}],"V+ay":[function(require,module,exports) {
 module.exports="/vue-pokedex/141.37da4537.png";
-},{}],"ARGd":[function(require,module,exports) {
-module.exports="/vue-pokedex/144.90ab15a1.png";
-},{}],"XuEg":[function(require,module,exports) {
-module.exports="/vue-pokedex/143.fc3b55f9.png";
 },{}],"r12t":[function(require,module,exports) {
 module.exports="/vue-pokedex/142.15401239.png";
+},{}],"XuEg":[function(require,module,exports) {
+module.exports="/vue-pokedex/143.fc3b55f9.png";
+},{}],"ARGd":[function(require,module,exports) {
+module.exports="/vue-pokedex/144.90ab15a1.png";
 },{}],"aklV":[function(require,module,exports) {
 module.exports="/vue-pokedex/145.6107c0b6.png";
 },{}],"0p9Z":[function(require,module,exports) {
 module.exports="/vue-pokedex/146.abe156c7.png";
-},{}],"j+Cp":[function(require,module,exports) {
-module.exports="/vue-pokedex/149.ae8cfc0b.png";
 },{}],"doJI":[function(require,module,exports) {
 module.exports="/vue-pokedex/147.3830e399.png";
 },{}],"w9ri":[function(require,module,exports) {
 module.exports="/vue-pokedex/148.a21a9e5b.png";
+},{}],"j+Cp":[function(require,module,exports) {
+module.exports="/vue-pokedex/149.ae8cfc0b.png";
 },{}],"CFVN":[function(require,module,exports) {
 module.exports="/vue-pokedex/150.f6b9f073.png";
 },{}],"U/cG":[function(require,module,exports) {
 module.exports="/vue-pokedex/151.90b05b67.png";
 },{}],"UGcJ":[function(require,module,exports) {
-module.exports={100:require("./100.png"),101:require("./101.png"),102:require("./102.png"),103:require("./103.png"),104:require("./104.png"),105:require("./105.png"),106:require("./106.png"),107:require("./107.png"),108:require("./108.png"),109:require("./109.png"),110:require("./110.png"),111:require("./111.png"),112:require("./112.png"),113:require("./113.png"),114:require("./114.png"),115:require("./115.png"),116:require("./116.png"),117:require("./117.png"),118:require("./118.png"),119:require("./119.png"),120:require("./120.png"),121:require("./121.png"),122:require("./122.png"),123:require("./123.png"),124:require("./124.png"),125:require("./125.png"),126:require("./126.png"),127:require("./127.png"),128:require("./128.png"),129:require("./129.png"),130:require("./130.png"),131:require("./131.png"),132:require("./132.png"),133:require("./133.png"),134:require("./134.png"),135:require("./135.png"),136:require("./136.png"),137:require("./137.png"),138:require("./138.png"),139:require("./139.png"),140:require("./140.png"),141:require("./141.png"),142:require("./142.png"),143:require("./143.png"),144:require("./144.png"),145:require("./145.png"),146:require("./146.png"),147:require("./147.png"),148:require("./148.png"),149:require("./149.png"),150:require("./150.png"),151:require("./151.png"),"001":require("./001.png"),"002":require("./002.png"),"003":require("./003.png"),"004":require("./004.png"),"005":require("./005.png"),"006":require("./006.png"),"007":require("./007.png"),"008":require("./008.png"),"009":require("./009.png"),"011":require("./011.png"),"010":require("./010.png"),"012":require("./012.png"),"013":require("./013.png"),"014":require("./014.png"),"015":require("./015.png"),"016":require("./016.png"),"017":require("./017.png"),"018":require("./018.png"),"019":require("./019.png"),"020":require("./020.png"),"021":require("./021.png"),"022":require("./022.png"),"023":require("./023.png"),"024":require("./024.png"),"025":require("./025.png"),"026":require("./026.png"),"027":require("./027.png"),"028":require("./028.png"),"029":require("./029.png"),"030":require("./030.png"),"031":require("./031.png"),"032":require("./032.png"),"033":require("./033.png"),"034":require("./034.png"),"035":require("./035.png"),"036":require("./036.png"),"037":require("./037.png"),"038":require("./038.png"),"039":require("./039.png"),"040":require("./040.png"),"041":require("./041.png"),"042":require("./042.png"),"043":require("./043.png"),"044":require("./044.png"),"045":require("./045.png"),"046":require("./046.png"),"047":require("./047.png"),"050":require("./050.png"),"048":require("./048.png"),"052":require("./052.png"),"051":require("./051.png"),"053":require("./053.png"),"049":require("./049.png"),"054":require("./054.png"),"056":require("./056.png"),"057":require("./057.png"),"055":require("./055.png"),"058":require("./058.png"),"059":require("./059.png"),"062":require("./062.png"),"060":require("./060.png"),"061":require("./061.png"),"063":require("./063.png"),"064":require("./064.png"),"067":require("./067.png"),"066":require("./066.png"),"065":require("./065.png"),"068":require("./068.png"),"069":require("./069.png"),"070":require("./070.png"),"072":require("./072.png"),"073":require("./073.png"),"074":require("./074.png"),"071":require("./071.png"),"075":require("./075.png"),"076":require("./076.png"),"077":require("./077.png"),"078":require("./078.png"),"081":require("./081.png"),"079":require("./079.png"),"080":require("./080.png"),"082":require("./082.png"),"083":require("./083.png"),"086":require("./086.png"),"084":require("./084.png"),"085":require("./085.png"),"087":require("./087.png"),"088":require("./088.png"),"091":require("./091.png"),"090":require("./090.png"),"089":require("./089.png"),"092":require("./092.png"),"093":require("./093.png"),"094":require("./094.png"),"096":require("./096.png"),"095":require("./095.png"),"097":require("./097.png"),"098":require("./098.png"),"099":require("./099.png")};
-},{"./001.png":"EJPK","./002.png":"QjO+","./003.png":"disu","./004.png":"5KF4","./005.png":"ncb0","./006.png":"hYIj","./007.png":"jE0Z","./008.png":"OpwQ","./009.png":"1a8W","./011.png":"IZZ8","./010.png":"Q1OA","./012.png":"PrI9","./013.png":"WwI2","./014.png":"Ad1A","./015.png":"C49Y","./016.png":"2nit","./017.png":"L1PT","./018.png":"PDHt","./019.png":"j+9N","./020.png":"27jp","./021.png":"KA18","./022.png":"Pgvf","./023.png":"xgwt","./024.png":"S3Ky","./025.png":"JpSW","./026.png":"+3oo","./027.png":"lSto","./028.png":"e6dl","./029.png":"i/2z","./030.png":"gvnw","./031.png":"AqW2","./032.png":"FU6t","./033.png":"ekk7","./034.png":"qnvH","./035.png":"3md4","./036.png":"yL/a","./037.png":"Y8nW","./038.png":"cibs","./039.png":"FWLP","./040.png":"Ugm6","./041.png":"SA/k","./042.png":"rpK+","./043.png":"ZesN","./044.png":"jA0g","./045.png":"MQAc","./046.png":"bGWa","./047.png":"BiKF","./050.png":"pl9A","./048.png":"j9ed","./052.png":"9Ol9","./051.png":"AilT","./053.png":"Jrg8","./049.png":"ab7M","./054.png":"dMPI","./056.png":"tCvz","./057.png":"Iejd","./055.png":"Nftk","./058.png":"CMXh","./059.png":"iEpJ","./062.png":"ejH7","./060.png":"ltn/","./061.png":"/Szz","./063.png":"+6ru","./064.png":"s95g","./067.png":"VYrn","./066.png":"7Km/","./065.png":"XOtx","./068.png":"WSKD","./069.png":"8+6v","./070.png":"p+3Y","./072.png":"lwPY","./073.png":"V2pw","./074.png":"XD1K","./071.png":"iE08","./075.png":"MFYs","./076.png":"FLJ6","./077.png":"0Ouj","./078.png":"FW+G","./081.png":"qZbt","./079.png":"JHi9","./080.png":"HwTS","./082.png":"UE0E","./083.png":"2L0u","./086.png":"T5Sh","./084.png":"zo8A","./085.png":"iwEw","./087.png":"3mdM","./088.png":"x4yj","./091.png":"y9aU","./090.png":"OVY5","./089.png":"7b1i","./092.png":"jLYG","./093.png":"aZQl","./094.png":"ewLy","./096.png":"07QO","./095.png":"5Cgs","./097.png":"HL1c","./098.png":"Vd+x","./099.png":"Drce","./101.png":"LVJx","./102.png":"/oV7","./100.png":"HkE6","./103.png":"ipde","./104.png":"ydt9","./105.png":"2/ft","./106.png":"K2RU","./107.png":"1I3C","./109.png":"W0B6","./108.png":"kJhM","./111.png":"/SDD","./110.png":"myGZ","./112.png":"L1Om","./114.png":"FBem","./113.png":"vFBc","./115.png":"A2HX","./116.png":"cz7R","./117.png":"rtUG","./120.png":"Cqkv","./118.png":"fJ2e","./119.png":"v5CW","./121.png":"cFCp","./122.png":"o5mI","./123.png":"gUgM","./124.png":"E310","./125.png":"bfab","./126.png":"d4LX","./129.png":"V3qY","./130.png":"4wxs","./128.png":"hzyP","./127.png":"LJ22","./131.png":"zRqx","./132.png":"Yp/m","./133.png":"Ty+u","./134.png":"Qq1D","./135.png":"Cf72","./136.png":"7Xis","./139.png":"gwrY","./137.png":"lA2/","./138.png":"caIJ","./140.png":"1w/D","./141.png":"V+ay","./144.png":"ARGd","./143.png":"XuEg","./142.png":"r12t","./145.png":"aklV","./146.png":"0p9Z","./149.png":"j+Cp","./147.png":"doJI","./148.png":"w9ri","./150.png":"CFVN","./151.png":"U/cG"}],"cyK0":[function(require,module,exports) {
-module.exports="/vue-pokedex/003.b0e29646.mp3";
-},{}],"Grk8":[function(require,module,exports) {
+module.exports={100:require("./100.png"),101:require("./101.png"),102:require("./102.png"),103:require("./103.png"),104:require("./104.png"),105:require("./105.png"),106:require("./106.png"),107:require("./107.png"),108:require("./108.png"),109:require("./109.png"),110:require("./110.png"),111:require("./111.png"),112:require("./112.png"),113:require("./113.png"),114:require("./114.png"),115:require("./115.png"),116:require("./116.png"),117:require("./117.png"),118:require("./118.png"),119:require("./119.png"),120:require("./120.png"),121:require("./121.png"),122:require("./122.png"),123:require("./123.png"),124:require("./124.png"),125:require("./125.png"),126:require("./126.png"),127:require("./127.png"),128:require("./128.png"),129:require("./129.png"),130:require("./130.png"),131:require("./131.png"),132:require("./132.png"),133:require("./133.png"),134:require("./134.png"),135:require("./135.png"),136:require("./136.png"),137:require("./137.png"),138:require("./138.png"),139:require("./139.png"),140:require("./140.png"),141:require("./141.png"),142:require("./142.png"),143:require("./143.png"),144:require("./144.png"),145:require("./145.png"),146:require("./146.png"),147:require("./147.png"),148:require("./148.png"),149:require("./149.png"),150:require("./150.png"),151:require("./151.png"),"001":require("./001.png"),"002":require("./002.png"),"003":require("./003.png"),"004":require("./004.png"),"005":require("./005.png"),"006":require("./006.png"),"007":require("./007.png"),"008":require("./008.png"),"009":require("./009.png"),"010":require("./010.png"),"011":require("./011.png"),"012":require("./012.png"),"013":require("./013.png"),"014":require("./014.png"),"016":require("./016.png"),"015":require("./015.png"),"017":require("./017.png"),"018":require("./018.png"),"019":require("./019.png"),"020":require("./020.png"),"021":require("./021.png"),"022":require("./022.png"),"023":require("./023.png"),"024":require("./024.png"),"025":require("./025.png"),"026":require("./026.png"),"027":require("./027.png"),"028":require("./028.png"),"029":require("./029.png"),"030":require("./030.png"),"031":require("./031.png"),"032":require("./032.png"),"033":require("./033.png"),"034":require("./034.png"),"035":require("./035.png"),"036":require("./036.png"),"037":require("./037.png"),"038":require("./038.png"),"039":require("./039.png"),"040":require("./040.png"),"041":require("./041.png"),"042":require("./042.png"),"043":require("./043.png"),"044":require("./044.png"),"045":require("./045.png"),"046":require("./046.png"),"047":require("./047.png"),"048":require("./048.png"),"049":require("./049.png"),"050":require("./050.png"),"051":require("./051.png"),"052":require("./052.png"),"053":require("./053.png"),"054":require("./054.png"),"055":require("./055.png"),"056":require("./056.png"),"057":require("./057.png"),"058":require("./058.png"),"059":require("./059.png"),"060":require("./060.png"),"061":require("./061.png"),"062":require("./062.png"),"063":require("./063.png"),"064":require("./064.png"),"065":require("./065.png"),"066":require("./066.png"),"067":require("./067.png"),"068":require("./068.png"),"069":require("./069.png"),"070":require("./070.png"),"071":require("./071.png"),"072":require("./072.png"),"073":require("./073.png"),"074":require("./074.png"),"075":require("./075.png"),"076":require("./076.png"),"077":require("./077.png"),"078":require("./078.png"),"079":require("./079.png"),"080":require("./080.png"),"081":require("./081.png"),"082":require("./082.png"),"083":require("./083.png"),"084":require("./084.png"),"085":require("./085.png"),"086":require("./086.png"),"087":require("./087.png"),"088":require("./088.png"),"089":require("./089.png"),"090":require("./090.png"),"091":require("./091.png"),"092":require("./092.png"),"093":require("./093.png"),"094":require("./094.png"),"095":require("./095.png"),"096":require("./096.png"),"097":require("./097.png"),"098":require("./098.png"),"099":require("./099.png")};
+},{"./001.png":"EJPK","./002.png":"QjO+","./003.png":"disu","./004.png":"5KF4","./005.png":"ncb0","./006.png":"hYIj","./007.png":"jE0Z","./008.png":"OpwQ","./009.png":"1a8W","./010.png":"Q1OA","./011.png":"IZZ8","./012.png":"PrI9","./013.png":"WwI2","./014.png":"Ad1A","./016.png":"2nit","./015.png":"C49Y","./017.png":"L1PT","./018.png":"PDHt","./019.png":"j+9N","./020.png":"27jp","./021.png":"KA18","./022.png":"Pgvf","./023.png":"xgwt","./024.png":"S3Ky","./025.png":"JpSW","./026.png":"+3oo","./027.png":"lSto","./028.png":"e6dl","./029.png":"i/2z","./030.png":"gvnw","./031.png":"AqW2","./032.png":"FU6t","./033.png":"ekk7","./034.png":"qnvH","./035.png":"3md4","./036.png":"yL/a","./037.png":"Y8nW","./038.png":"cibs","./039.png":"FWLP","./040.png":"Ugm6","./041.png":"SA/k","./042.png":"rpK+","./043.png":"ZesN","./044.png":"jA0g","./045.png":"MQAc","./046.png":"bGWa","./047.png":"BiKF","./048.png":"j9ed","./049.png":"ab7M","./050.png":"pl9A","./051.png":"AilT","./052.png":"9Ol9","./053.png":"Jrg8","./054.png":"dMPI","./055.png":"Nftk","./056.png":"tCvz","./057.png":"Iejd","./058.png":"CMXh","./059.png":"iEpJ","./060.png":"ltn/","./061.png":"/Szz","./062.png":"ejH7","./063.png":"+6ru","./064.png":"s95g","./065.png":"XOtx","./066.png":"7Km/","./067.png":"VYrn","./068.png":"WSKD","./069.png":"8+6v","./070.png":"p+3Y","./071.png":"iE08","./072.png":"lwPY","./073.png":"V2pw","./074.png":"XD1K","./075.png":"MFYs","./076.png":"FLJ6","./077.png":"0Ouj","./078.png":"FW+G","./079.png":"JHi9","./080.png":"HwTS","./081.png":"qZbt","./082.png":"UE0E","./083.png":"2L0u","./084.png":"zo8A","./085.png":"iwEw","./086.png":"T5Sh","./087.png":"3mdM","./088.png":"x4yj","./089.png":"7b1i","./090.png":"OVY5","./091.png":"y9aU","./092.png":"jLYG","./093.png":"aZQl","./094.png":"ewLy","./095.png":"5Cgs","./096.png":"07QO","./097.png":"HL1c","./098.png":"Vd+x","./099.png":"Drce","./100.png":"HkE6","./101.png":"LVJx","./102.png":"/oV7","./103.png":"ipde","./104.png":"ydt9","./105.png":"2/ft","./106.png":"K2RU","./107.png":"1I3C","./108.png":"kJhM","./109.png":"W0B6","./110.png":"myGZ","./111.png":"/SDD","./112.png":"L1Om","./113.png":"vFBc","./114.png":"FBem","./115.png":"A2HX","./116.png":"cz7R","./117.png":"rtUG","./118.png":"fJ2e","./119.png":"v5CW","./120.png":"Cqkv","./121.png":"cFCp","./122.png":"o5mI","./123.png":"gUgM","./124.png":"E310","./125.png":"bfab","./126.png":"d4LX","./127.png":"LJ22","./128.png":"hzyP","./129.png":"V3qY","./130.png":"4wxs","./131.png":"zRqx","./132.png":"Yp/m","./133.png":"Ty+u","./134.png":"Qq1D","./135.png":"Cf72","./136.png":"7Xis","./137.png":"lA2/","./138.png":"caIJ","./139.png":"gwrY","./140.png":"1w/D","./141.png":"V+ay","./142.png":"r12t","./143.png":"XuEg","./144.png":"ARGd","./145.png":"aklV","./146.png":"0p9Z","./147.png":"doJI","./148.png":"w9ri","./149.png":"j+Cp","./150.png":"CFVN","./151.png":"U/cG"}],"Grk8":[function(require,module,exports) {
 module.exports="/vue-pokedex/001.33f3f89e.mp3";
 },{}],"Vvus":[function(require,module,exports) {
 module.exports="/vue-pokedex/002.2a2a8581.mp3";
+},{}],"cyK0":[function(require,module,exports) {
+module.exports="/vue-pokedex/003.b0e29646.mp3";
 },{}],"2ya4":[function(require,module,exports) {
 module.exports="/vue-pokedex/004.34de1b35.mp3";
 },{}],"fJGL":[function(require,module,exports) {
@@ -331,46 +331,48 @@ module.exports="/vue-pokedex/008.786105e9.mp3";
 module.exports="/vue-pokedex/009.02969958.mp3";
 },{}],"dpBt":[function(require,module,exports) {
 module.exports="/vue-pokedex/010.70bd944c.mp3";
-},{}],"S91h":[function(require,module,exports) {
-module.exports="/vue-pokedex/013.4cfe7472.mp3";
 },{}],"SwtJ":[function(require,module,exports) {
 module.exports="/vue-pokedex/011.f382e02b.mp3";
+},{}],"S91h":[function(require,module,exports) {
+module.exports="/vue-pokedex/013.4cfe7472.mp3";
 },{}],"ryAh":[function(require,module,exports) {
 module.exports="/vue-pokedex/012.9a2e38f0.mp3";
 },{}],"Q4Kb":[function(require,module,exports) {
 module.exports="/vue-pokedex/014.800d10f7.mp3";
 },{}],"jwQD":[function(require,module,exports) {
 module.exports="/vue-pokedex/015.592bf265.mp3";
-},{}],"f0Kb":[function(require,module,exports) {
-module.exports="/vue-pokedex/018.f157a19d.mp3";
 },{}],"Ba6F":[function(require,module,exports) {
 module.exports="/vue-pokedex/016.95b5872e.mp3";
-},{}],"LXCn":[function(require,module,exports) {
-module.exports="/vue-pokedex/019.792512e3.mp3";
 },{}],"gS6P":[function(require,module,exports) {
 module.exports="/vue-pokedex/017.b9b76699.mp3";
+},{}],"f0Kb":[function(require,module,exports) {
+module.exports="/vue-pokedex/018.f157a19d.mp3";
+},{}],"LXCn":[function(require,module,exports) {
+module.exports="/vue-pokedex/019.792512e3.mp3";
 },{}],"ZjmF":[function(require,module,exports) {
 module.exports="/vue-pokedex/020.410a329a.mp3";
 },{}],"fpGu":[function(require,module,exports) {
 module.exports="/vue-pokedex/021.aa2dd5f7.mp3";
 },{}],"8pza":[function(require,module,exports) {
 module.exports="/vue-pokedex/022.d0a37d21.mp3";
-},{}],"GXHV":[function(require,module,exports) {
-module.exports="/vue-pokedex/024.6100a024.mp3";
-},{}],"16lE":[function(require,module,exports) {
-module.exports="/vue-pokedex/026.69327c71.mp3";
 },{}],"eFcp":[function(require,module,exports) {
 module.exports="/vue-pokedex/023.4ab19bcb.mp3";
+},{}],"GXHV":[function(require,module,exports) {
+module.exports="/vue-pokedex/024.6100a024.mp3";
+},{}],"AuCq":[function(require,module,exports) {
+module.exports="/vue-pokedex/025.eb0fc34d.mp3";
+},{}],"16lE":[function(require,module,exports) {
+module.exports="/vue-pokedex/026.69327c71.mp3";
 },{}],"s78E":[function(require,module,exports) {
 module.exports="/vue-pokedex/027.2a168c34.mp3";
 },{}],"Lcud":[function(require,module,exports) {
 module.exports="/vue-pokedex/028.dbb0ac29.mp3";
 },{}],"qhW+":[function(require,module,exports) {
 module.exports="/vue-pokedex/029.d4601a1a.mp3";
-},{}],"MVld":[function(require,module,exports) {
-module.exports="/vue-pokedex/031.c9cbc166.mp3";
 },{}],"Pdcn":[function(require,module,exports) {
 module.exports="/vue-pokedex/030.96bd90e9.mp3";
+},{}],"MVld":[function(require,module,exports) {
+module.exports="/vue-pokedex/031.c9cbc166.mp3";
 },{}],"ZxCO":[function(require,module,exports) {
 module.exports="/vue-pokedex/032.92137aea.mp3";
 },{}],"9onw":[function(require,module,exports) {
@@ -385,16 +387,16 @@ module.exports="/vue-pokedex/036.f918f749.mp3";
 module.exports="/vue-pokedex/037.e355e7f5.mp3";
 },{}],"EVUt":[function(require,module,exports) {
 module.exports="/vue-pokedex/038.e22d67da.mp3";
-},{}],"DPal":[function(require,module,exports) {
-module.exports="/vue-pokedex/040.b614bce7.mp3";
 },{}],"pA39":[function(require,module,exports) {
 module.exports="/vue-pokedex/039.fd61f96c.mp3";
+},{}],"DPal":[function(require,module,exports) {
+module.exports="/vue-pokedex/040.b614bce7.mp3";
 },{}],"h0Ks":[function(require,module,exports) {
 module.exports="/vue-pokedex/041.bde45681.mp3";
-},{}],"c4uI":[function(require,module,exports) {
-module.exports="/vue-pokedex/043.728e4a93.mp3";
 },{}],"VBhY":[function(require,module,exports) {
 module.exports="/vue-pokedex/042.b5017f66.mp3";
+},{}],"c4uI":[function(require,module,exports) {
+module.exports="/vue-pokedex/043.728e4a93.mp3";
 },{}],"+fjv":[function(require,module,exports) {
 module.exports="/vue-pokedex/044.f150d052.mp3";
 },{}],"cGLx":[function(require,module,exports) {
@@ -407,56 +409,56 @@ module.exports="/vue-pokedex/047.49850394.mp3";
 module.exports="/vue-pokedex/048.1d40af92.mp3";
 },{}],"czbx":[function(require,module,exports) {
 module.exports="/vue-pokedex/049.bdacc39d.mp3";
-},{}],"aZSg":[function(require,module,exports) {
-module.exports="/vue-pokedex/052.8fa6bd61.mp3";
 },{}],"9AAE":[function(require,module,exports) {
 module.exports="/vue-pokedex/050.72764570.mp3";
 },{}],"ZmDK":[function(require,module,exports) {
 module.exports="/vue-pokedex/051.cdbc4cff.mp3";
+},{}],"aZSg":[function(require,module,exports) {
+module.exports="/vue-pokedex/052.8fa6bd61.mp3";
 },{}],"tBjF":[function(require,module,exports) {
 module.exports="/vue-pokedex/053.b5e105d7.mp3";
 },{}],"PjOd":[function(require,module,exports) {
 module.exports="/vue-pokedex/054.32eaea58.mp3";
-},{}],"48M0":[function(require,module,exports) {
-module.exports="/vue-pokedex/056.db7c1151.mp3";
-},{}],"4vjW":[function(require,module,exports) {
-module.exports="/vue-pokedex/058.fcf8087f.mp3";
 },{}],"qtb+":[function(require,module,exports) {
 module.exports="/vue-pokedex/055.702b763a.mp3";
+},{}],"48M0":[function(require,module,exports) {
+module.exports="/vue-pokedex/056.db7c1151.mp3";
 },{}],"aKoN":[function(require,module,exports) {
 module.exports="/vue-pokedex/057.418d2a83.mp3";
+},{}],"4vjW":[function(require,module,exports) {
+module.exports="/vue-pokedex/058.fcf8087f.mp3";
 },{}],"Y5/V":[function(require,module,exports) {
 module.exports="/vue-pokedex/059.67dd75f0.mp3";
 },{}],"+ZRO":[function(require,module,exports) {
 module.exports="/vue-pokedex/060.1b1af564.mp3";
+},{}],"0z21":[function(require,module,exports) {
+module.exports="/vue-pokedex/061.759881b5.mp3";
 },{}],"jEhD":[function(require,module,exports) {
 module.exports="/vue-pokedex/062.50651db6.mp3";
 },{}],"fke/":[function(require,module,exports) {
 module.exports="/vue-pokedex/063.b5f3da96.mp3";
-},{}],"0z21":[function(require,module,exports) {
-module.exports="/vue-pokedex/061.759881b5.mp3";
 },{}],"hoP+":[function(require,module,exports) {
 module.exports="/vue-pokedex/064.b419d515.mp3";
-},{}],"BVtJ":[function(require,module,exports) {
-module.exports="/vue-pokedex/066.cd557a34.mp3";
 },{}],"niQo":[function(require,module,exports) {
 module.exports="/vue-pokedex/065.f3c2cdde.mp3";
+},{}],"BVtJ":[function(require,module,exports) {
+module.exports="/vue-pokedex/066.cd557a34.mp3";
 },{}],"stg/":[function(require,module,exports) {
 module.exports="/vue-pokedex/067.73442cb3.mp3";
 },{}],"z+/N":[function(require,module,exports) {
 module.exports="/vue-pokedex/068.337522aa.mp3";
 },{}],"jsa6":[function(require,module,exports) {
 module.exports="/vue-pokedex/069.683149e6.mp3";
-},{}],"4g1I":[function(require,module,exports) {
-module.exports="/vue-pokedex/071.e9a651d2.mp3";
 },{}],"igV8":[function(require,module,exports) {
 module.exports="/vue-pokedex/070.08e0c9f7.mp3";
+},{}],"4g1I":[function(require,module,exports) {
+module.exports="/vue-pokedex/071.e9a651d2.mp3";
 },{}],"eBDd":[function(require,module,exports) {
 module.exports="/vue-pokedex/072.05f6ca4f.mp3";
-},{}],"6Mld":[function(require,module,exports) {
-module.exports="/vue-pokedex/074.19c4124a.mp3";
 },{}],"FtP6":[function(require,module,exports) {
 module.exports="/vue-pokedex/073.c5bc1de2.mp3";
+},{}],"6Mld":[function(require,module,exports) {
+module.exports="/vue-pokedex/074.19c4124a.mp3";
 },{}],"Th5h":[function(require,module,exports) {
 module.exports="/vue-pokedex/075.5f9a88d0.mp3";
 },{}],"rt3k":[function(require,module,exports) {
@@ -467,44 +469,44 @@ module.exports="/vue-pokedex/077.2d468e25.mp3";
 module.exports="/vue-pokedex/078.37e24411.mp3";
 },{}],"Nwtf":[function(require,module,exports) {
 module.exports="/vue-pokedex/079.b2c88abb.mp3";
-},{}],"stff":[function(require,module,exports) {
-module.exports="/vue-pokedex/081.7ec823f2.mp3";
 },{}],"JT1r":[function(require,module,exports) {
 module.exports="/vue-pokedex/080.29cd7561.mp3";
-},{}],"fpfI":[function(require,module,exports) {
-module.exports="/vue-pokedex/084.ff27b8fd.mp3";
-},{}],"DKiy":[function(require,module,exports) {
-module.exports="/vue-pokedex/083.bfc81ef0.mp3";
+},{}],"stff":[function(require,module,exports) {
+module.exports="/vue-pokedex/081.7ec823f2.mp3";
 },{}],"UaUO":[function(require,module,exports) {
 module.exports="/vue-pokedex/082.7a30d95d.mp3";
+},{}],"DKiy":[function(require,module,exports) {
+module.exports="/vue-pokedex/083.bfc81ef0.mp3";
+},{}],"fpfI":[function(require,module,exports) {
+module.exports="/vue-pokedex/084.ff27b8fd.mp3";
 },{}],"7LL0":[function(require,module,exports) {
 module.exports="/vue-pokedex/085.4d56d370.mp3";
 },{}],"KeZK":[function(require,module,exports) {
 module.exports="/vue-pokedex/086.169defda.mp3";
-},{}],"7CS0":[function(require,module,exports) {
-module.exports="/vue-pokedex/088.9eaee42c.mp3";
 },{}],"WIvY":[function(require,module,exports) {
 module.exports="/vue-pokedex/087.54facfc8.mp3";
+},{}],"7CS0":[function(require,module,exports) {
+module.exports="/vue-pokedex/088.9eaee42c.mp3";
 },{}],"o1Qt":[function(require,module,exports) {
 module.exports="/vue-pokedex/089.1c859be3.mp3";
 },{}],"vtYh":[function(require,module,exports) {
 module.exports="/vue-pokedex/090.f1690805.mp3";
 },{}],"HDJO":[function(require,module,exports) {
 module.exports="/vue-pokedex/091.c615e89b.mp3";
-},{}],"iCdo":[function(require,module,exports) {
-module.exports="/vue-pokedex/093.f1cb3c27.mp3";
 },{}],"UiVg":[function(require,module,exports) {
 module.exports="/vue-pokedex/092.bb9da764.mp3";
-},{}],"9x94":[function(require,module,exports) {
-module.exports="/vue-pokedex/095.a319cdc3.mp3";
+},{}],"iCdo":[function(require,module,exports) {
+module.exports="/vue-pokedex/093.f1cb3c27.mp3";
 },{}],"Y325":[function(require,module,exports) {
 module.exports="/vue-pokedex/094.9da45d9e.mp3";
-},{}],"uwrr":[function(require,module,exports) {
-module.exports="/vue-pokedex/098.e55d4c5c.mp3";
+},{}],"9x94":[function(require,module,exports) {
+module.exports="/vue-pokedex/095.a319cdc3.mp3";
 },{}],"0nWa":[function(require,module,exports) {
 module.exports="/vue-pokedex/096.d75849b4.mp3";
 },{}],"Oa9y":[function(require,module,exports) {
 module.exports="/vue-pokedex/097.71dd57bc.mp3";
+},{}],"uwrr":[function(require,module,exports) {
+module.exports="/vue-pokedex/098.e55d4c5c.mp3";
 },{}],"sESu":[function(require,module,exports) {
 module.exports="/vue-pokedex/099.daa41a67.mp3";
 },{}],"cwpw":[function(require,module,exports) {
@@ -513,34 +515,34 @@ module.exports="/vue-pokedex/100.fcff8bfe.mp3";
 module.exports="/vue-pokedex/101.aec3ae1a.mp3";
 },{}],"Cj9g":[function(require,module,exports) {
 module.exports="/vue-pokedex/102.54482b34.mp3";
-},{}],"Suws":[function(require,module,exports) {
-module.exports="/vue-pokedex/104.43704e4d.mp3";
 },{}],"viu0":[function(require,module,exports) {
 module.exports="/vue-pokedex/103.7e8e93e7.mp3";
+},{}],"Suws":[function(require,module,exports) {
+module.exports="/vue-pokedex/104.43704e4d.mp3";
 },{}],"kdBr":[function(require,module,exports) {
 module.exports="/vue-pokedex/105.a065f41a.mp3";
-},{}],"4Wnl":[function(require,module,exports) {
-module.exports="/vue-pokedex/107.eb3f6119.mp3";
 },{}],"muy8":[function(require,module,exports) {
 module.exports="/vue-pokedex/106.a7740981.mp3";
+},{}],"4Wnl":[function(require,module,exports) {
+module.exports="/vue-pokedex/107.eb3f6119.mp3";
 },{}],"B+o7":[function(require,module,exports) {
 module.exports="/vue-pokedex/108.a0b692e7.mp3";
-},{}],"8nLV":[function(require,module,exports) {
-module.exports="/vue-pokedex/110.cec21be6.mp3";
 },{}],"9EjF":[function(require,module,exports) {
 module.exports="/vue-pokedex/109.d06a9398.mp3";
+},{}],"8nLV":[function(require,module,exports) {
+module.exports="/vue-pokedex/110.cec21be6.mp3";
 },{}],"i+Qn":[function(require,module,exports) {
 module.exports="/vue-pokedex/111.8a977923.mp3";
-},{}],"CcIW":[function(require,module,exports) {
-module.exports="/vue-pokedex/113.79da6ba6.mp3";
 },{}],"hu2e":[function(require,module,exports) {
 module.exports="/vue-pokedex/112.d337a191.mp3";
+},{}],"CcIW":[function(require,module,exports) {
+module.exports="/vue-pokedex/113.79da6ba6.mp3";
+},{}],"jD3B":[function(require,module,exports) {
+module.exports="/vue-pokedex/115.0569d862.mp3";
 },{}],"W6i8":[function(require,module,exports) {
 module.exports="/vue-pokedex/114.f76ee659.mp3";
 },{}],"sMz3":[function(require,module,exports) {
 module.exports="/vue-pokedex/116.1beb9d61.mp3";
-},{}],"jD3B":[function(require,module,exports) {
-module.exports="/vue-pokedex/115.0569d862.mp3";
 },{}],"WeQP":[function(require,module,exports) {
 module.exports="/vue-pokedex/117.8f3ec9b4.mp3";
 },{}],"aGSD":[function(require,module,exports) {
@@ -551,16 +553,16 @@ module.exports="/vue-pokedex/119.ba0f1e48.mp3";
 module.exports="/vue-pokedex/120.77c565da.mp3";
 },{}],"3nqy":[function(require,module,exports) {
 module.exports="/vue-pokedex/121.108840f9.mp3";
-},{}],"0aa9":[function(require,module,exports) {
-module.exports="/vue-pokedex/123.13f395fa.mp3";
 },{}],"IUk7":[function(require,module,exports) {
 module.exports="/vue-pokedex/122.982d27fd.mp3";
+},{}],"0aa9":[function(require,module,exports) {
+module.exports="/vue-pokedex/123.13f395fa.mp3";
 },{}],"Ctv+":[function(require,module,exports) {
 module.exports="/vue-pokedex/124.e03cfeba.mp3";
-},{}],"QWfe":[function(require,module,exports) {
-module.exports="/vue-pokedex/126.ecebfb19.mp3";
 },{}],"vh3R":[function(require,module,exports) {
 module.exports="/vue-pokedex/125.175cacc2.mp3";
+},{}],"QWfe":[function(require,module,exports) {
+module.exports="/vue-pokedex/126.ecebfb19.mp3";
 },{}],"a5DY":[function(require,module,exports) {
 module.exports="/vue-pokedex/127.a5efa6f5.mp3";
 },{}],"xH+M":[function(require,module,exports) {
@@ -573,12 +575,12 @@ module.exports="/vue-pokedex/130.4c486ed9.mp3";
 module.exports="/vue-pokedex/131.c5e605bf.mp3";
 },{}],"dckW":[function(require,module,exports) {
 module.exports="/vue-pokedex/132.3cd8a9ac.mp3";
+},{}],"X+Wk":[function(require,module,exports) {
+module.exports="/vue-pokedex/133.0b93235e.mp3";
 },{}],"Kcxv":[function(require,module,exports) {
 module.exports="/vue-pokedex/134.16085de9.mp3";
 },{}],"45R6":[function(require,module,exports) {
 module.exports="/vue-pokedex/135.1b81005c.mp3";
-},{}],"X+Wk":[function(require,module,exports) {
-module.exports="/vue-pokedex/133.0b93235e.mp3";
 },{}],"w5Sx":[function(require,module,exports) {
 module.exports="/vue-pokedex/136.cbb8d416.mp3";
 },{}],"Cai5":[function(require,module,exports) {
@@ -612,8 +614,8 @@ module.exports="/vue-pokedex/150.724f611e.mp3";
 },{}],"bWWI":[function(require,module,exports) {
 module.exports="/vue-pokedex/151.a8312c3a.mp3";
 },{}],"W86t":[function(require,module,exports) {
-module.exports={100:require("./100.mp3"),101:require("./101.mp3"),102:require("./102.mp3"),103:require("./103.mp3"),104:require("./104.mp3"),105:require("./105.mp3"),106:require("./106.mp3"),107:require("./107.mp3"),108:require("./108.mp3"),109:require("./109.mp3"),110:require("./110.mp3"),111:require("./111.mp3"),112:require("./112.mp3"),113:require("./113.mp3"),114:require("./114.mp3"),115:require("./115.mp3"),116:require("./116.mp3"),117:require("./117.mp3"),118:require("./118.mp3"),119:require("./119.mp3"),120:require("./120.mp3"),121:require("./121.mp3"),122:require("./122.mp3"),123:require("./123.mp3"),124:require("./124.mp3"),125:require("./125.mp3"),126:require("./126.mp3"),127:require("./127.mp3"),128:require("./128.mp3"),129:require("./129.mp3"),130:require("./130.mp3"),131:require("./131.mp3"),132:require("./132.mp3"),133:require("./133.mp3"),134:require("./134.mp3"),135:require("./135.mp3"),136:require("./136.mp3"),137:require("./137.mp3"),138:require("./138.mp3"),139:require("./139.mp3"),140:require("./140.mp3"),141:require("./141.mp3"),142:require("./142.mp3"),143:require("./143.mp3"),144:require("./144.mp3"),145:require("./145.mp3"),146:require("./146.mp3"),147:require("./147.mp3"),148:require("./148.mp3"),149:require("./149.mp3"),150:require("./150.mp3"),151:require("./151.mp3"),"003":require("./003.mp3"),"001":require("./001.mp3"),"002":require("./002.mp3"),"004":require("./004.mp3"),"005":require("./005.mp3"),"006":require("./006.mp3"),"007":require("./007.mp3"),"008":require("./008.mp3"),"009":require("./009.mp3"),"010":require("./010.mp3"),"013":require("./013.mp3"),"011":require("./011.mp3"),"012":require("./012.mp3"),"014":require("./014.mp3"),"015":require("./015.mp3"),"018":require("./018.mp3"),"016":require("./016.mp3"),"019":require("./019.mp3"),"017":require("./017.mp3"),"020":require("./020.mp3"),"021":require("./021.mp3"),"022":require("./022.mp3"),"024":require("./024.mp3"),"026":require("./026.mp3"),"023":require("./023.mp3"),"027":require("./027.mp3"),"028":require("./028.mp3"),"029":require("./029.mp3"),"031":require("./031.mp3"),"030":require("./030.mp3"),"032":require("./032.mp3"),"033":require("./033.mp3"),"034":require("./034.mp3"),"035":require("./035.mp3"),"036":require("./036.mp3"),"037":require("./037.mp3"),"038":require("./038.mp3"),"040":require("./040.mp3"),"039":require("./039.mp3"),"041":require("./041.mp3"),"043":require("./043.mp3"),"042":require("./042.mp3"),"044":require("./044.mp3"),"045":require("./045.mp3"),"046":require("./046.mp3"),"047":require("./047.mp3"),"048":require("./048.mp3"),"049":require("./049.mp3"),"052":require("./052.mp3"),"050":require("./050.mp3"),"051":require("./051.mp3"),"053":require("./053.mp3"),"054":require("./054.mp3"),"056":require("./056.mp3"),"058":require("./058.mp3"),"055":require("./055.mp3"),"057":require("./057.mp3"),"059":require("./059.mp3"),"060":require("./060.mp3"),"062":require("./062.mp3"),"063":require("./063.mp3"),"061":require("./061.mp3"),"064":require("./064.mp3"),"066":require("./066.mp3"),"065":require("./065.mp3"),"067":require("./067.mp3"),"068":require("./068.mp3"),"069":require("./069.mp3"),"071":require("./071.mp3"),"070":require("./070.mp3"),"072":require("./072.mp3"),"074":require("./074.mp3"),"073":require("./073.mp3"),"075":require("./075.mp3"),"076":require("./076.mp3"),"077":require("./077.mp3"),"078":require("./078.mp3"),"079":require("./079.mp3"),"081":require("./081.mp3"),"080":require("./080.mp3"),"084":require("./084.mp3"),"083":require("./083.mp3"),"082":require("./082.mp3"),"085":require("./085.mp3"),"086":require("./086.mp3"),"088":require("./088.mp3"),"087":require("./087.mp3"),"089":require("./089.mp3"),"090":require("./090.mp3"),"091":require("./091.mp3"),"093":require("./093.mp3"),"092":require("./092.mp3"),"095":require("./095.mp3"),"094":require("./094.mp3"),"098":require("./098.mp3"),"096":require("./096.mp3"),"097":require("./097.mp3"),"099":require("./099.mp3")};
-},{"./003.mp3":"cyK0","./001.mp3":"Grk8","./002.mp3":"Vvus","./004.mp3":"2ya4","./005.mp3":"fJGL","./006.mp3":"40AI","./007.mp3":"fQB/","./008.mp3":"XAP7","./009.mp3":"9qL0","./010.mp3":"dpBt","./013.mp3":"S91h","./011.mp3":"SwtJ","./012.mp3":"ryAh","./014.mp3":"Q4Kb","./015.mp3":"jwQD","./018.mp3":"f0Kb","./016.mp3":"Ba6F","./019.mp3":"LXCn","./017.mp3":"gS6P","./020.mp3":"ZjmF","./021.mp3":"fpGu","./022.mp3":"8pza","./024.mp3":"GXHV","./026.mp3":"16lE","./023.mp3":"eFcp","./027.mp3":"s78E","./028.mp3":"Lcud","./029.mp3":"qhW+","./031.mp3":"MVld","./030.mp3":"Pdcn","./032.mp3":"ZxCO","./033.mp3":"9onw","./034.mp3":"kScM","./035.mp3":"nnQ9","./036.mp3":"Qtju","./037.mp3":"iH7d","./038.mp3":"EVUt","./040.mp3":"DPal","./039.mp3":"pA39","./041.mp3":"h0Ks","./043.mp3":"c4uI","./042.mp3":"VBhY","./044.mp3":"+fjv","./045.mp3":"cGLx","./046.mp3":"M0Md","./047.mp3":"ESAq","./048.mp3":"NEw+","./049.mp3":"czbx","./052.mp3":"aZSg","./050.mp3":"9AAE","./051.mp3":"ZmDK","./053.mp3":"tBjF","./054.mp3":"PjOd","./056.mp3":"48M0","./058.mp3":"4vjW","./055.mp3":"qtb+","./057.mp3":"aKoN","./059.mp3":"Y5/V","./060.mp3":"+ZRO","./062.mp3":"jEhD","./063.mp3":"fke/","./061.mp3":"0z21","./064.mp3":"hoP+","./066.mp3":"BVtJ","./065.mp3":"niQo","./067.mp3":"stg/","./068.mp3":"z+/N","./069.mp3":"jsa6","./071.mp3":"4g1I","./070.mp3":"igV8","./072.mp3":"eBDd","./074.mp3":"6Mld","./073.mp3":"FtP6","./075.mp3":"Th5h","./076.mp3":"rt3k","./077.mp3":"0DNh","./078.mp3":"jZNc","./079.mp3":"Nwtf","./081.mp3":"stff","./080.mp3":"JT1r","./084.mp3":"fpfI","./083.mp3":"DKiy","./082.mp3":"UaUO","./085.mp3":"7LL0","./086.mp3":"KeZK","./088.mp3":"7CS0","./087.mp3":"WIvY","./089.mp3":"o1Qt","./090.mp3":"vtYh","./091.mp3":"HDJO","./093.mp3":"iCdo","./092.mp3":"UiVg","./095.mp3":"9x94","./094.mp3":"Y325","./098.mp3":"uwrr","./096.mp3":"0nWa","./097.mp3":"Oa9y","./099.mp3":"sESu","./100.mp3":"cwpw","./101.mp3":"8XiT","./102.mp3":"Cj9g","./104.mp3":"Suws","./103.mp3":"viu0","./105.mp3":"kdBr","./107.mp3":"4Wnl","./106.mp3":"muy8","./108.mp3":"B+o7","./110.mp3":"8nLV","./109.mp3":"9EjF","./111.mp3":"i+Qn","./113.mp3":"CcIW","./112.mp3":"hu2e","./114.mp3":"W6i8","./116.mp3":"sMz3","./115.mp3":"jD3B","./117.mp3":"WeQP","./118.mp3":"aGSD","./119.mp3":"1+wh","./120.mp3":"ty67","./121.mp3":"3nqy","./123.mp3":"0aa9","./122.mp3":"IUk7","./124.mp3":"Ctv+","./126.mp3":"QWfe","./125.mp3":"vh3R","./127.mp3":"a5DY","./128.mp3":"xH+M","./129.mp3":"kxW9","./130.mp3":"gA01","./131.mp3":"Kgq1","./132.mp3":"dckW","./134.mp3":"Kcxv","./135.mp3":"45R6","./133.mp3":"X+Wk","./136.mp3":"w5Sx","./137.mp3":"Cai5","./138.mp3":"oKYL","./139.mp3":"oBvd","./140.mp3":"EnGi","./141.mp3":"2Dyt","./142.mp3":"X9ha","./143.mp3":"Cx0u","./144.mp3":"KD7Z","./145.mp3":"Sj/z","./146.mp3":"3plh","./147.mp3":"1f8v","./148.mp3":"Cudf","./149.mp3":"OHwT","./150.mp3":"L70a","./151.mp3":"bWWI"}],"SdzP":[function(require,module,exports) {
+module.exports={100:require("./100.mp3"),101:require("./101.mp3"),102:require("./102.mp3"),103:require("./103.mp3"),104:require("./104.mp3"),105:require("./105.mp3"),106:require("./106.mp3"),107:require("./107.mp3"),108:require("./108.mp3"),109:require("./109.mp3"),110:require("./110.mp3"),111:require("./111.mp3"),112:require("./112.mp3"),113:require("./113.mp3"),114:require("./114.mp3"),115:require("./115.mp3"),116:require("./116.mp3"),117:require("./117.mp3"),118:require("./118.mp3"),119:require("./119.mp3"),120:require("./120.mp3"),121:require("./121.mp3"),122:require("./122.mp3"),123:require("./123.mp3"),124:require("./124.mp3"),125:require("./125.mp3"),126:require("./126.mp3"),127:require("./127.mp3"),128:require("./128.mp3"),129:require("./129.mp3"),130:require("./130.mp3"),131:require("./131.mp3"),132:require("./132.mp3"),133:require("./133.mp3"),134:require("./134.mp3"),135:require("./135.mp3"),136:require("./136.mp3"),137:require("./137.mp3"),138:require("./138.mp3"),139:require("./139.mp3"),140:require("./140.mp3"),141:require("./141.mp3"),142:require("./142.mp3"),143:require("./143.mp3"),144:require("./144.mp3"),145:require("./145.mp3"),146:require("./146.mp3"),147:require("./147.mp3"),148:require("./148.mp3"),149:require("./149.mp3"),150:require("./150.mp3"),151:require("./151.mp3"),"001":require("./001.mp3"),"002":require("./002.mp3"),"003":require("./003.mp3"),"004":require("./004.mp3"),"005":require("./005.mp3"),"006":require("./006.mp3"),"007":require("./007.mp3"),"008":require("./008.mp3"),"009":require("./009.mp3"),"010":require("./010.mp3"),"011":require("./011.mp3"),"013":require("./013.mp3"),"012":require("./012.mp3"),"014":require("./014.mp3"),"015":require("./015.mp3"),"016":require("./016.mp3"),"017":require("./017.mp3"),"018":require("./018.mp3"),"019":require("./019.mp3"),"020":require("./020.mp3"),"021":require("./021.mp3"),"022":require("./022.mp3"),"023":require("./023.mp3"),"024":require("./024.mp3"),"025":require("./025.mp3"),"026":require("./026.mp3"),"027":require("./027.mp3"),"028":require("./028.mp3"),"029":require("./029.mp3"),"030":require("./030.mp3"),"031":require("./031.mp3"),"032":require("./032.mp3"),"033":require("./033.mp3"),"034":require("./034.mp3"),"035":require("./035.mp3"),"036":require("./036.mp3"),"037":require("./037.mp3"),"038":require("./038.mp3"),"039":require("./039.mp3"),"040":require("./040.mp3"),"041":require("./041.mp3"),"042":require("./042.mp3"),"043":require("./043.mp3"),"044":require("./044.mp3"),"045":require("./045.mp3"),"046":require("./046.mp3"),"047":require("./047.mp3"),"048":require("./048.mp3"),"049":require("./049.mp3"),"050":require("./050.mp3"),"051":require("./051.mp3"),"052":require("./052.mp3"),"053":require("./053.mp3"),"054":require("./054.mp3"),"055":require("./055.mp3"),"056":require("./056.mp3"),"057":require("./057.mp3"),"058":require("./058.mp3"),"059":require("./059.mp3"),"060":require("./060.mp3"),"061":require("./061.mp3"),"062":require("./062.mp3"),"063":require("./063.mp3"),"064":require("./064.mp3"),"065":require("./065.mp3"),"066":require("./066.mp3"),"067":require("./067.mp3"),"068":require("./068.mp3"),"069":require("./069.mp3"),"070":require("./070.mp3"),"071":require("./071.mp3"),"072":require("./072.mp3"),"073":require("./073.mp3"),"074":require("./074.mp3"),"075":require("./075.mp3"),"076":require("./076.mp3"),"077":require("./077.mp3"),"078":require("./078.mp3"),"079":require("./079.mp3"),"080":require("./080.mp3"),"081":require("./081.mp3"),"082":require("./082.mp3"),"083":require("./083.mp3"),"084":require("./084.mp3"),"085":require("./085.mp3"),"086":require("./086.mp3"),"087":require("./087.mp3"),"088":require("./088.mp3"),"089":require("./089.mp3"),"090":require("./090.mp3"),"091":require("./091.mp3"),"092":require("./092.mp3"),"093":require("./093.mp3"),"094":require("./094.mp3"),"095":require("./095.mp3"),"096":require("./096.mp3"),"097":require("./097.mp3"),"098":require("./098.mp3"),"099":require("./099.mp3")};
+},{"./001.mp3":"Grk8","./002.mp3":"Vvus","./003.mp3":"cyK0","./004.mp3":"2ya4","./005.mp3":"fJGL","./006.mp3":"40AI","./007.mp3":"fQB/","./008.mp3":"XAP7","./009.mp3":"9qL0","./010.mp3":"dpBt","./011.mp3":"SwtJ","./013.mp3":"S91h","./012.mp3":"ryAh","./014.mp3":"Q4Kb","./015.mp3":"jwQD","./016.mp3":"Ba6F","./017.mp3":"gS6P","./018.mp3":"f0Kb","./019.mp3":"LXCn","./020.mp3":"ZjmF","./021.mp3":"fpGu","./022.mp3":"8pza","./023.mp3":"eFcp","./024.mp3":"GXHV","./025.mp3":"AuCq","./026.mp3":"16lE","./027.mp3":"s78E","./028.mp3":"Lcud","./029.mp3":"qhW+","./030.mp3":"Pdcn","./031.mp3":"MVld","./032.mp3":"ZxCO","./033.mp3":"9onw","./034.mp3":"kScM","./035.mp3":"nnQ9","./036.mp3":"Qtju","./037.mp3":"iH7d","./038.mp3":"EVUt","./039.mp3":"pA39","./040.mp3":"DPal","./041.mp3":"h0Ks","./042.mp3":"VBhY","./043.mp3":"c4uI","./044.mp3":"+fjv","./045.mp3":"cGLx","./046.mp3":"M0Md","./047.mp3":"ESAq","./048.mp3":"NEw+","./049.mp3":"czbx","./050.mp3":"9AAE","./051.mp3":"ZmDK","./052.mp3":"aZSg","./053.mp3":"tBjF","./054.mp3":"PjOd","./055.mp3":"qtb+","./056.mp3":"48M0","./057.mp3":"aKoN","./058.mp3":"4vjW","./059.mp3":"Y5/V","./060.mp3":"+ZRO","./061.mp3":"0z21","./062.mp3":"jEhD","./063.mp3":"fke/","./064.mp3":"hoP+","./065.mp3":"niQo","./066.mp3":"BVtJ","./067.mp3":"stg/","./068.mp3":"z+/N","./069.mp3":"jsa6","./070.mp3":"igV8","./071.mp3":"4g1I","./072.mp3":"eBDd","./073.mp3":"FtP6","./074.mp3":"6Mld","./075.mp3":"Th5h","./076.mp3":"rt3k","./077.mp3":"0DNh","./078.mp3":"jZNc","./079.mp3":"Nwtf","./080.mp3":"JT1r","./081.mp3":"stff","./082.mp3":"UaUO","./083.mp3":"DKiy","./084.mp3":"fpfI","./085.mp3":"7LL0","./086.mp3":"KeZK","./087.mp3":"WIvY","./088.mp3":"7CS0","./089.mp3":"o1Qt","./090.mp3":"vtYh","./091.mp3":"HDJO","./092.mp3":"UiVg","./093.mp3":"iCdo","./094.mp3":"Y325","./095.mp3":"9x94","./096.mp3":"0nWa","./097.mp3":"Oa9y","./098.mp3":"uwrr","./099.mp3":"sESu","./100.mp3":"cwpw","./101.mp3":"8XiT","./102.mp3":"Cj9g","./103.mp3":"viu0","./104.mp3":"Suws","./105.mp3":"kdBr","./106.mp3":"muy8","./107.mp3":"4Wnl","./108.mp3":"B+o7","./109.mp3":"9EjF","./110.mp3":"8nLV","./111.mp3":"i+Qn","./112.mp3":"hu2e","./113.mp3":"CcIW","./115.mp3":"jD3B","./114.mp3":"W6i8","./116.mp3":"sMz3","./117.mp3":"WeQP","./118.mp3":"aGSD","./119.mp3":"1+wh","./120.mp3":"ty67","./121.mp3":"3nqy","./122.mp3":"IUk7","./123.mp3":"0aa9","./124.mp3":"Ctv+","./125.mp3":"vh3R","./126.mp3":"QWfe","./127.mp3":"a5DY","./128.mp3":"xH+M","./129.mp3":"kxW9","./130.mp3":"gA01","./131.mp3":"Kgq1","./132.mp3":"dckW","./133.mp3":"X+Wk","./134.mp3":"Kcxv","./135.mp3":"45R6","./136.mp3":"w5Sx","./137.mp3":"Cai5","./138.mp3":"oKYL","./139.mp3":"oBvd","./140.mp3":"EnGi","./141.mp3":"2Dyt","./142.mp3":"X9ha","./143.mp3":"Cx0u","./144.mp3":"KD7Z","./145.mp3":"Sj/z","./146.mp3":"3plh","./147.mp3":"1f8v","./148.mp3":"Cudf","./149.mp3":"OHwT","./150.mp3":"L70a","./151.mp3":"bWWI"}],"SdzP":[function(require,module,exports) {
 module.exports=[{id:1,name:"bulbasaur",types:["grass","poison"],baseStats:{hp:45,attack:49,defense:49,speed:45,special:65}},{id:2,name:"ivysaur",types:["grass","poison"],baseStats:{hp:60,attack:62,defense:63,speed:60,special:80}},{id:3,name:"venusaur",types:["grass","poison"],baseStats:{hp:80,attack:82,defense:83,speed:80,special:100}},{id:4,name:"charmander",types:["fire"],baseStats:{hp:39,attack:52,defense:43,speed:65,special:50}},{id:5,name:"charmeleon",types:["fire"],baseStats:{hp:58,attack:64,defense:58,speed:80,special:65}},{id:6,name:"charizard",types:["fire","flying"],baseStats:{hp:78,attack:84,defense:78,speed:100,special:85}},{id:7,name:"squirtle",types:["water"],baseStats:{hp:44,attack:48,defense:65,speed:43,special:50}},{id:8,name:"wartortle",types:["water"],baseStats:{hp:59,attack:63,defense:80,speed:58,special:65}},{id:9,name:"blastoise",types:["water"],baseStats:{hp:79,attack:83,defense:100,speed:78,special:85}},{id:10,name:"caterpie",types:["bug"],baseStats:{hp:45,attack:30,defense:35,speed:45,special:20}},{id:11,name:"metapod",types:["bug"],baseStats:{hp:50,attack:20,defense:55,speed:30,special:25}},{id:12,name:"butterfree",types:["bug","flying"],baseStats:{hp:60,attack:45,defense:50,speed:70,special:80}},{id:13,name:"weedle",types:["bug","poison"],baseStats:{hp:40,attack:35,defense:30,speed:50,special:20}},{id:14,name:"kakuna",types:["bug","poison"],baseStats:{hp:45,attack:25,defense:50,speed:35,special:25}},{id:15,name:"beedrill",types:["bug","poison"],baseStats:{hp:65,attack:80,defense:40,speed:75,special:45}},{id:16,name:"pidgey",types:["normal","flying"],baseStats:{hp:40,attack:45,defense:40,speed:56,special:35}},{id:17,name:"pidgeotto",types:["normal","flying"],baseStats:{hp:63,attack:60,defense:55,speed:71,special:50}},{id:18,name:"pidgeot",types:["normal","flying"],baseStats:{hp:83,attack:80,defense:75,speed:91,special:70}},{id:19,name:"rattata",types:["normal"],baseStats:{hp:30,attack:56,defense:35,speed:72,special:25}},{id:20,name:"raticate",types:["normal"],baseStats:{hp:55,attack:81,defense:60,speed:97,special:50}},{id:21,name:"spearow",types:["normal","flying"],baseStats:{hp:40,attack:60,defense:30,speed:70,special:31}},{id:22,name:"fearow",types:["normal","flying"],baseStats:{hp:65,attack:90,defense:65,speed:100,special:61}},{id:23,name:"ekans",types:["poison"],baseStats:{hp:35,attack:60,defense:44,speed:55,special:40}},{id:24,name:"arbok",types:["poison"],baseStats:{hp:60,attack:85,defense:69,speed:80,special:65}},{id:25,name:"pikachu",types:["electric"],baseStats:{hp:35,attack:55,defense:30,speed:90,special:50}},{id:26,name:"raichu",types:["electric"],baseStats:{hp:60,attack:90,defense:55,speed:100,special:90}},{id:27,name:"sandshrew",types:["ground"],baseStats:{hp:50,attack:75,defense:85,speed:40,special:30}},{id:28,name:"sandslash",types:["ground"],baseStats:{hp:75,attack:100,defense:110,speed:65,special:55}},{id:29,name:"nidoran♀",types:["poison"],baseStats:{hp:55,attack:47,defense:52,speed:41,special:40}},{id:30,name:"nidorina",types:["poison"],baseStats:{hp:70,attack:62,defense:67,speed:56,special:55}},{id:31,name:"nidoqueen",types:["poison","ground"],baseStats:{hp:90,attack:82,defense:87,speed:76,special:75}},{id:32,name:"nidoran♂",types:["poison"],baseStats:{hp:46,attack:57,defense:40,speed:50,special:40}},{id:33,name:"nidorino",types:["poison"],baseStats:{hp:61,attack:72,defense:57,speed:65,special:55}},{id:34,name:"nidoking",types:["poison","ground"],baseStats:{hp:81,attack:92,defense:77,speed:85,special:75}},{id:35,name:"clefairy",types:["fairy"],baseStats:{hp:70,attack:45,defense:48,speed:35,special:60}},{id:36,name:"clefable",types:["fairy"],baseStats:{hp:95,attack:70,defense:73,speed:60,special:85}},{id:37,name:"vulpix",types:["fire"],baseStats:{hp:38,attack:41,defense:40,speed:65,special:65}},{id:38,name:"ninetales",types:["fire"],baseStats:{hp:73,attack:76,defense:75,speed:100,special:100}},{id:39,name:"jigglypuff",types:["normal","fairy"],baseStats:{hp:115,attack:45,defense:20,speed:20,special:25}},{id:40,name:"wigglytuff",types:["normal","fairy"],baseStats:{hp:140,attack:70,defense:45,speed:45,special:50}},{id:41,name:"zubat",types:["poison","flying"],baseStats:{hp:40,attack:45,defense:35,speed:55,special:40}},{id:42,name:"golbat",types:["poison","flying"],baseStats:{hp:75,attack:80,defense:70,speed:90,special:75}},{id:43,name:"oddish",types:["grass","poison"],baseStats:{hp:45,attack:50,defense:55,speed:30,special:75}},{id:44,name:"gloom",types:["grass","poison"],baseStats:{hp:60,attack:65,defense:70,speed:40,special:85}},{id:45,name:"vileplume",types:["grass","poison"],baseStats:{hp:75,attack:80,defense:85,speed:50,special:100}},{id:46,name:"paras",types:["bug","grass"],baseStats:{hp:35,attack:70,defense:55,speed:25,special:55}},{id:47,name:"parasect",types:["bug","grass"],baseStats:{hp:60,attack:95,defense:80,speed:30,special:80}},{id:48,name:"venonat",types:["bug","poison"],baseStats:{hp:60,attack:55,defense:50,speed:45,special:40}},{id:49,name:"venomoth",types:["bug","poison"],baseStats:{hp:70,attack:65,defense:60,speed:90,special:90}},{id:50,name:"diglett",types:["ground"],baseStats:{hp:10,attack:55,defense:25,speed:95,special:45}},{id:51,name:"dugtrio",types:["ground"],baseStats:{hp:35,attack:80,defense:50,speed:120,special:70}},{id:52,name:"meowth",types:["normal"],baseStats:{hp:40,attack:45,defense:35,speed:90,special:40}},{id:53,name:"persian",types:["normal"],baseStats:{hp:65,attack:70,defense:60,speed:115,special:65}},{id:54,name:"psyduck",types:["water"],baseStats:{hp:50,attack:52,defense:48,speed:55,special:50}},{id:55,name:"golduck",types:["water"],baseStats:{hp:80,attack:82,defense:78,speed:85,special:80}},{id:56,name:"mankey",types:["fighting"],baseStats:{hp:40,attack:80,defense:35,speed:70,special:35}},{id:57,name:"primeape",types:["fighting"],baseStats:{hp:65,attack:105,defense:60,speed:95,special:60}},{id:58,name:"growlithe",types:["fire"],baseStats:{hp:55,attack:70,defense:45,speed:60,special:50}},{id:59,name:"arcanine",types:["fire"],baseStats:{hp:90,attack:110,defense:80,speed:95,special:80}},{id:60,name:"poliwag",types:["water"],baseStats:{hp:40,attack:50,defense:40,speed:90,special:40}},{id:61,name:"poliwhirl",types:["water"],baseStats:{hp:65,attack:65,defense:65,speed:90,special:50}},{id:62,name:"poliwrath",types:["water","fighting"],baseStats:{hp:90,attack:85,defense:95,speed:70,special:70}},{id:63,name:"abra",types:["psychic"],baseStats:{hp:25,attack:20,defense:15,speed:90,special:105}},{id:64,name:"kadabra",types:["psychic"],baseStats:{hp:40,attack:35,defense:30,speed:105,special:120}},{id:65,name:"alakazam",types:["psychic"],baseStats:{hp:55,attack:50,defense:45,speed:120,special:135}},{id:66,name:"machop",types:["fighting"],baseStats:{hp:70,attack:80,defense:50,speed:35,special:35}},{id:67,name:"machoke",types:["fighting"],baseStats:{hp:80,attack:100,defense:70,speed:45,special:50}},{id:68,name:"machamp",types:["fighting"],baseStats:{hp:90,attack:130,defense:80,speed:55,special:65}},{id:69,name:"bellsprout",types:["grass","poison"],baseStats:{hp:50,attack:75,defense:35,speed:40,special:70}},{id:70,name:"weepinbell",types:["grass","poison"],baseStats:{hp:65,attack:90,defense:50,speed:55,special:85}},{id:71,name:"victreebel",types:["grass","poison"],baseStats:{hp:80,attack:105,defense:65,speed:70,special:100}},{id:72,name:"tentacool",types:["water","poison"],baseStats:{hp:40,attack:40,defense:35,speed:70,special:100}},{id:73,name:"tentacruel",types:["water","poison"],baseStats:{hp:80,attack:70,defense:65,speed:100,special:120}},{id:74,name:"geodude",types:["rock","ground"],baseStats:{hp:40,attack:80,defense:100,speed:20,special:30}},{id:75,name:"graveler",types:["rock","ground"],baseStats:{hp:55,attack:95,defense:115,speed:35,special:45}},{id:76,name:"golem",types:["rock","ground"],baseStats:{hp:80,attack:110,defense:130,speed:45,special:55}},{id:77,name:"ponyta",types:["fire"],baseStats:{hp:50,attack:85,defense:55,speed:90,special:65}},{id:78,name:"rapidash",types:["fire"],baseStats:{hp:65,attack:100,defense:70,speed:105,special:80}},{id:79,name:"slowpoke",types:["water","psychic"],baseStats:{hp:90,attack:65,defense:65,speed:15,special:40}},{id:80,name:"slowbro",types:["water","psychic"],baseStats:{hp:95,attack:75,defense:110,speed:30,special:80}},{id:81,name:"magnemite",types:["electric","steel"],baseStats:{hp:25,attack:35,defense:70,speed:45,special:95}},{id:82,name:"magneton",types:["electric","steel"],baseStats:{hp:50,attack:60,defense:95,speed:70,special:120}},{id:83,name:"farfetch'd",types:["normal","flying"],baseStats:{hp:52,attack:65,defense:55,speed:60,special:58}},{id:84,name:"doduo",types:["normal","flying"],baseStats:{hp:35,attack:85,defense:45,speed:75,special:35}},{id:85,name:"dodrio",types:["normal","flying"],baseStats:{hp:60,attack:110,defense:70,speed:100,special:60}},{id:86,name:"seel",types:["water"],baseStats:{hp:65,attack:45,defense:55,speed:45,special:70}},{id:87,name:"dewgong",types:["water","ice"],baseStats:{hp:90,attack:70,defense:80,speed:70,special:95}},{id:88,name:"grimer",types:["poison"],baseStats:{hp:80,attack:80,defense:50,speed:25,special:40}},{id:89,name:"muk",types:["poison"],baseStats:{hp:105,attack:105,defense:75,speed:50,special:65}},{id:90,name:"shellder",types:["water"],baseStats:{hp:30,attack:65,defense:100,speed:40,special:45}},{id:91,name:"cloyster",types:["water","ice"],baseStats:{hp:50,attack:95,defense:180,speed:70,special:85}},{id:92,name:"gastly",types:["ghost","poison"],baseStats:{hp:30,attack:35,defense:30,speed:80,special:100}},{id:93,name:"haunter",types:["ghost","poison"],baseStats:{hp:45,attack:50,defense:45,speed:95,special:115}},{id:94,name:"gengar",types:["ghost","poison"],baseStats:{hp:60,attack:65,defense:60,speed:110,special:130}},{id:95,name:"onix",types:["rock","ground"],baseStats:{hp:35,attack:45,defense:160,speed:70,special:30}},{id:96,name:"drowzee",types:["psychic"],baseStats:{hp:60,attack:48,defense:45,speed:42,special:90}},{id:97,name:"hypno",types:["psychic"],baseStats:{hp:85,attack:73,defense:70,speed:67,special:115}},{id:98,name:"krabby",types:["water"],baseStats:{hp:30,attack:105,defense:90,speed:50,special:25}},{id:99,name:"kingler",types:["water"],baseStats:{hp:55,attack:130,defense:115,speed:75,special:50}},{id:100,name:"voltorb",types:["electric"],baseStats:{hp:40,attack:30,defense:50,speed:100,special:55}},{id:101,name:"electrode",types:["electric"],baseStats:{hp:60,attack:50,defense:70,speed:140,special:80}},{id:102,name:"exeggcute",types:["grass","psychic"],baseStats:{hp:60,attack:40,defense:80,speed:40,special:60}},{id:103,name:"exeggutor",types:["grass","psychic"],baseStats:{hp:95,attack:95,defense:85,speed:55,special:125}},{id:104,name:"cubone",types:["ground"],baseStats:{hp:50,attack:50,defense:95,speed:35,special:40}},{id:105,name:"marowak",types:["ground"],baseStats:{hp:60,attack:80,defense:110,speed:45,special:50}},{id:106,name:"hitmonlee",types:["fighting"],baseStats:{hp:50,attack:120,defense:53,speed:87,special:35}},{id:107,name:"hitmonchan",types:["fighting"],baseStats:{hp:50,attack:105,defense:79,speed:76,special:35}},{id:108,name:"lickitung",types:["normal"],baseStats:{hp:90,attack:55,defense:75,speed:30,special:60}},{id:109,name:"koffing",types:["poison"],baseStats:{hp:40,attack:65,defense:95,speed:35,special:60}},{id:110,name:"weezing",types:["poison"],baseStats:{hp:65,attack:90,defense:120,speed:60,special:85}},{id:111,name:"rhyhorn",types:["ground","rock"],baseStats:{hp:80,attack:85,defense:95,speed:25,special:30}},{id:112,name:"rhydon",types:["ground","rock"],baseStats:{hp:105,attack:130,defense:120,speed:40,special:45}},{id:113,name:"chansey",types:["normal"],baseStats:{hp:250,attack:5,defense:5,speed:50,special:105}},{id:114,name:"tangela",types:["grass"],baseStats:{hp:65,attack:55,defense:115,speed:60,special:100}},{id:115,name:"kangaskhan",types:["normal"],baseStats:{hp:105,attack:95,defense:80,speed:90,special:40}},{id:116,name:"horsea",types:["water"],baseStats:{hp:30,attack:40,defense:70,speed:60,special:70}},{id:117,name:"seadra",types:["water"],baseStats:{hp:55,attack:65,defense:95,speed:85,special:95}},{id:118,name:"goldeen",types:["water"],baseStats:{hp:45,attack:67,defense:60,speed:63,special:50}},{id:119,name:"seaking",types:["water"],baseStats:{hp:80,attack:92,defense:65,speed:68,special:80}},{id:120,name:"staryu",types:["water"],baseStats:{hp:30,attack:45,defense:55,speed:85,special:70}},{id:121,name:"starmie",types:["water","psychic"],baseStats:{hp:60,attack:75,defense:85,speed:115,special:100}},{id:122,name:"mr. mime",types:["psychic","fairy"],baseStats:{hp:40,attack:45,defense:65,speed:90,special:100}},{id:123,name:"scyther",types:["bug","flying"],baseStats:{hp:70,attack:110,defense:80,speed:105,special:55}},{id:124,name:"jynx",types:["ice","psychic"],baseStats:{hp:65,attack:50,defense:35,speed:95,special:95}},{id:125,name:"electabuzz",types:["electric"],baseStats:{hp:65,attack:83,defense:57,speed:105,special:85}},{id:126,name:"magmar",types:["fire"],baseStats:{hp:65,attack:95,defense:57,speed:93,special:85}},{id:127,name:"pinsir",types:["bug"],baseStats:{hp:65,attack:125,defense:100,speed:85,special:55}},{id:128,name:"tauros",types:["normal"],baseStats:{hp:75,attack:100,defense:95,speed:110,special:70}},{id:129,name:"magikarp",types:["water"],baseStats:{hp:20,attack:10,defense:55,speed:80,special:20}},{id:130,name:"gyarados",types:["water","flying"],baseStats:{hp:95,attack:125,defense:79,speed:81,special:100}},{id:131,name:"lapras",types:["water","ice"],baseStats:{hp:130,attack:85,defense:80,speed:60,special:95}},{id:132,name:"ditto",types:["normal"],baseStats:{hp:48,attack:48,defense:48,speed:48,special:48}},{id:133,name:"eevee",types:["normal"],baseStats:{hp:55,attack:55,defense:50,speed:55,special:65}},{id:134,name:"vaporeon",types:["water"],baseStats:{hp:130,attack:65,defense:60,speed:65,special:110}},{id:135,name:"jolteon",types:["electric"],baseStats:{hp:65,attack:65,defense:60,speed:130,special:110}},{id:136,name:"flareon",types:["fire"],baseStats:{hp:65,attack:130,defense:60,speed:65,special:110}},{id:137,name:"porygon",types:["normal"],baseStats:{hp:65,attack:60,defense:70,speed:40,special:75}},{id:138,name:"omanyte",types:["rock","water"],baseStats:{hp:35,attack:40,defense:100,speed:35,special:90}},{id:139,name:"omastar",types:["rock","water"],baseStats:{hp:70,attack:60,defense:125,speed:55,special:115}},{id:140,name:"kabuto",types:["rock","water"],baseStats:{hp:30,attack:80,defense:90,speed:55,special:45}},{id:141,name:"kabutops",types:["rock","water"],baseStats:{hp:60,attack:115,defense:105,speed:80,special:70}},{id:142,name:"aerodactyl",types:["rock","flying"],baseStats:{hp:80,attack:105,defense:65,speed:130,special:60}},{id:143,name:"snorlax",types:["normal"],baseStats:{hp:160,attack:110,defense:65,speed:30,special:65}},{id:144,name:"articuno",types:["ice","flying"],baseStats:{hp:90,attack:85,defense:100,speed:85,special:125}},{id:145,name:"zapdos",types:["electric","flying"],baseStats:{hp:90,attack:90,defense:85,speed:100,special:125}},{id:146,name:"moltres",types:["fire","flying"],baseStats:{hp:90,attack:100,defense:90,speed:90,special:125}},{id:147,name:"dratini",types:["dragon"],baseStats:{hp:41,attack:64,defense:45,speed:50,special:50}},{id:148,name:"dragonair",types:["dragon"],baseStats:{hp:61,attack:84,defense:65,speed:70,special:70}},{id:149,name:"dragonite",types:["dragon","flying"],baseStats:{hp:91,attack:134,defense:95,speed:80,special:100}},{id:150,name:"mewtwo",types:["psychic"],baseStats:{hp:106,attack:110,defense:90,speed:130,special:154}},{id:151,name:"mew",types:["psychic"],baseStats:{hp:100,attack:100,defense:100,speed:100,special:100}}];
 },{}],"i/Wu":[function(require,module,exports) {
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e=require("howler"),t=r(require("../../assets/images/*.png")),o=r(require("../../assets/sounds/*.mp3")),n=r(require("../../assets/pokemon.json"));function r(e){return e&&e.__esModule?e:{default:e}}Number.prototype.toLongId=function(){return this.toString().padStart(3,0)};var i={name:"Pokedex",props:{id:{type:Number,required:!1,default:1,validator:function(e){return e>0&&e<151}}},data:function(){return{pokemonId:this.id,crySound:null}},computed:{max:function(){return 150},min:function(){return 1}},methods:{getImage:function(){return t.default[this.pokemonId.toLongId()]},getName:function(){var e=n.default[this.pokemonId-1].name;return"".concat(this.pokemonId,". ").concat(e[0].toUpperCase()+e.slice(1))},playCry:function(){this.crySound.play()},goNext:function(){this.pokemonId=this.pokemonId<this.max?this.pokemonId+1:this.pokemonId},goBack:function(){this.pokemonId=this.pokemonId>this.min?this.pokemonId-1:this.pokemonId}},created:function(){document.title="Vue PokeDex"},updated:function(){this.crySound=new e.Howl({src:[o.default[this.pokemonId.toLongId()]],volume:.25}),this.playCry(),this.$router.replace("/id/"+this.pokemonId)}};exports.default=i;
@@ -622,6 +624,6 @@ module.exports=[{id:1,name:"bulbasaur",types:["grass","poison"],baseStats:{hp:45
 "use strict";Object.defineProperty(exports,"__esModule",{value:!0}),exports.default=void 0;var e=t(require("~/components/PokeDex.vue"));function t(e){return e&&e.__esModule?e:{default:e}}var o={name:"App",components:{"poke-dex":e.default},computed:{id:function(){return Number(this.$route.params.id)}}};exports.default=o;
 (function(){var e=exports.default||module.exports;"function"==typeof e&&(e=e.options),Object.assign(e,{render:function(){var e=this.$createElement;return(this._self._c||e)("poke-dex",{attrs:{id:this.id}})},staticRenderFns:[],_compiled:!0,_scopeId:null,functional:void 0});})();
 },{"~/components/PokeDex.vue":"i/Wu","./..\\assets\\background.jpg":[["background.c2d5b26e.jpg","0fK+"],"0fK+"]}],"Focm":[function(require,module,exports) {
-"use strict";var e=r(require("vue/dist/vue.esm")),u=r(require("vue-router")),t=r(require("./App.vue"));function r(e){return e&&e.__esModule?e:{default:e}}var n=[{path:"/id/:id",name:"id",component:t.default},{path:"/name/:name",name:"name",component:t.default}],a=new u.default({routes:n,mode:"history"});e.default.use(u.default),new e.default({router:a,render:function(e){return e(t.default)}}).$mount("#app");
+"use strict";var e=t(require("vue/dist/vue.esm")),u=t(require("vue-router")),r=t(require("./App.vue"));function t(e){return e&&e.__esModule?e:{default:e}}var d=[{path:"/id/:id",name:"id",component:r.default}],n=new u.default({routes:d,mode:"history"});e.default.use(u.default),new e.default({router:n,render:function(e){return e(r.default)}}).$mount("#app");
 },{"vue/dist/vue.esm":"fAfE","vue-router":"7ov2","./App.vue":"Js2s"}]},{},["Focm"], "global")
-//# sourceMappingURL=/vue-pokedex/src.950df908.map
+//# sourceMappingURL=/vue-pokedex/src.85507043.map

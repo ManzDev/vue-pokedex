@@ -45,9 +45,7 @@ import images from '../../assets/images/*.png';
 import cries from '../../assets/sounds/*.mp3';
 import json from '../../assets/pokemon.json';
 
-Number.prototype.toLongId = function() {
-  return this.toString().padStart(3, 0);
-};
+const toLongId = n => n.toString().padStart(3, 0);    // 001, 002, 003, ...
 
 export default {
   name: 'Pokedex',
@@ -61,7 +59,7 @@ export default {
   },
   data() {
     return {
-      pokemonId: this.id,        // 1, 2, 3...
+      pokemonId: null,        // 1, 2, 3...
       crySound: null
     }
   },
@@ -71,7 +69,7 @@ export default {
   },
   methods: {
     getImage() {
-      return images[this.pokemonId.toLongId()];
+      return images[toLongId(this.pokemonId)];
     },
     getName() {
       const name = json[this.pokemonId - 1].name;
@@ -81,25 +79,30 @@ export default {
       this.crySound.play();
     },
     goNext() {
-      //location.href = `/id/${this.id + 1}`;
-      this.pokemonId = (this.pokemonId < this.max) ? this.pokemonId + 1 : this.pokemonId;
+      const newId = (this.pokemonId < this.max) ? this.pokemonId + 1 : this.pokemonId;
+      this.$router.replace(`/id/${newId}`);
     },
     goBack() {
-      //location.href = `/id/${this.id - 1}`;
-      this.pokemonId = (this.pokemonId > this.min) ? this.pokemonId - 1 : this.pokemonId;
+      const newId = (this.pokemonId > this.min) ? this.pokemonId - 1 : this.pokemonId;
+      this.$router.replace(`/id/${newId}`);
+    }
+  },
+  watch: {
+    pokemonId() {
+      this.crySound = new Howl({
+        src: [ cries[toLongId(this.pokemonId)] ],
+        volume: 0.25
+      });
+      this.playCry();
+    },
+    $route(to, from) {
+      this.pokemonId = Number(to.params.id);
     }
   },
   created() {
     document.title = 'Vue PokeDex';
+    this.pokemonId = Number(this.id);
   },
-  updated() {
-    this.crySound = new Howl({
-      src: [ cries[this.pokemonId.toLongId()] ],
-      volume: 0.25
-    });
-    this.playCry();
-    this.$router.replace('/id/' + this.pokemonId);
-  }
 }
 </script>
 
